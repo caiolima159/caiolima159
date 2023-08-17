@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Caio Lima</h1>
-<h3 align="center">Apaixonado por ciência de dados e análise de dados</h3>
+<h3 align="center">Entusiasta por ciência de dados e análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Power BI e Machine Learn**
 
