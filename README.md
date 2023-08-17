@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou o Caio Lima</h1>
 <h3 align="center">Entusiasta por ciência de dados e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Power BI e Machine Learn**
+- 🌱 Atualmente estou aprendendo **Python, Power BI, SQL, Excel e Machine Learn**
 
 - 👨‍💻 Meus projetos de Dashboards estão disponíveis em [https://sites.google.com/view/portfliocaiolima/in%C3%ADcio](https://sites.google.com/view/portfliocaiolima/in%C3%ADcio)
 
-- 💬 Me pergunte sobre **Excel, Python, Power BI e SQL**
+- 💬 Me pergunte sobre **Excel, Python, Power BI, SQL e Machine Learn**
 
 - 📫 Você me acha através do e-mail **caio_lima_duarte@hotmail.com**
 
