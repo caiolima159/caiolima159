@@ -11,7 +11,7 @@
 
 - 📄 Aqui estão minhas habilidades [https://www.linkedin.com/in/caio-lima-duarte-b0ab55267/](https://www.linkedin.com/in/caio-lima-duarte-b0ab55267/)
 
-- ⚡ Fato curioso: **Sou formado em Engenharia Civil pela UFAL, mas descobri uma paixão pela Ciência de Dados e, como parte de uma nova jornada, decidi me especializar realizando a formação em Dados da Escola DNC**
+- ⚡ Fato curioso: **Sou formado em Engenharia Civil pela UFAL, mas encontrei um imenso interesse na área de Ciência de Dados e, como parte de uma nova jornada, decidi me especializar realizando a formação em Dados da Escola DNC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
